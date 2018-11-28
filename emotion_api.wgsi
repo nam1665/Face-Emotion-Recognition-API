@@ -1,0 +1,4 @@
+from emotion_api import emotion_api
+
+if __name__ == "__main__":
+    emotion_api.run()
